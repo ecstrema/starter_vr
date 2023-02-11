@@ -22,5 +22,5 @@ pnpm build
 ## Deploying
 
 ```bash
-pnpm deploy
+pnpm run deploy
 ```
