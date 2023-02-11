@@ -2,7 +2,7 @@ import { defineConfig } from "vite";
 import compress from "vite-plugin-compression";
 
 export default defineConfig({
-  base: "/starter-vr/",
+  base: "/starter_vr/",
   plugins: [
     compress(),
   ],
