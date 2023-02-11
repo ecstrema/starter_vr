@@ -1,0 +1,5 @@
+{
+  "yaml.schemas": {
+    "https://json.schemastore.org/github-workflow.json": "file:///f%3A/prog/starter_vr/.github/workflows/deploy.yml"
+  }
+}

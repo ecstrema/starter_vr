@@ -8,7 +8,7 @@
 		"deploy": "pnpm build && gh-pages -d dist"
 	},
 	"devDependencies": {
-		"@ecstrema/eslint-config": "^0.0.6",
+		"@ecstrema/eslint-config": "^0.0.12",
 		"@types/three": "^0.134.0",
 		"eslint": "^8.24.0",
 		"typescript": "^4.8.4",
